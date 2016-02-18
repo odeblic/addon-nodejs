@@ -6,3 +6,5 @@ The command *'node'* might have to be replaced by *'nodejs'* on legacy (*'nodejs
 
 The tool *'node-gyp'* allows to Generated Your Project (G.Y.P.) for *NodeJS* which is described in file *'binding.gyp'* (like *'make'* with *'Makefile'*).
 
+Use the scripts build.sh and clean.sh (nodejs and node-gyp must be installed first).
+
